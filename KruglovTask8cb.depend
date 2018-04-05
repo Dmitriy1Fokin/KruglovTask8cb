@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522921957 source:/home/dmitriy/WorkspaceCpp/KruglovTask8cb/src/ClassPI.cpp
+	"ClassPI.h"
+
+1522921957 /home/dmitriy/WorkspaceCpp/KruglovTask8cb/include/ClassPI.h
+
+1522921624 source:/home/dmitriy/WorkspaceCpp/KruglovTask8cb/src/Shape.cpp
+	"Shape.h"
+
+1522921636 /home/dmitriy/WorkspaceCpp/KruglovTask8cb/include/Shape.h
+	<algorithm>
+	<functional>
+	<ctime>
+	<iostream>
+	<vector>
+	<list>
+
